@@ -20,10 +20,3 @@ El proyecto incluye dos archivos principales:
 
 ## Autor
 Miguel Martinez F.
-Requerimientos
-
-Python 3.x
-
-Autor
-
-Carlos Silva Diaz
